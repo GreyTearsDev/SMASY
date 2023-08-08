@@ -1,0 +1,2 @@
+# SMASY
+School Management System
